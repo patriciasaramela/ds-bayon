@@ -1,9 +1,3 @@
-unj-devguides-frontend
-=====================
-
-Documentação de recomendações de desenvolvimento de código front-end.
-
-
 ## Gerando o Guia em HTML
 
 - Instale [Sphinx](http://www.sphinx-doc.org/en/master/index.html). 
@@ -18,4 +12,4 @@ Os HTMLs estarão disponíveis em content/_build/html
 
 ## Versão Publicada
 
-Atualmente o guia é publicado pelo pipeline de build em http://unj-devguides.git-unj.softplan.com.br/unj-devguides-frontend/index.html
+Atualmente o guia é publicado  em http://ds-bayon.surge.sh/
