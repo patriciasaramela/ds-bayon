@@ -1,0 +1,24 @@
+image: docker-unj-repo.softplan.com.br/unj-integracoes/sphinx-plantuml:latest
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+stages:
+  - publish
+  - pages
+
+pages:
+  stage: pages
+  script:
+    # File "/usr/lib/python3.6/site-packages/execjs/__init__.py", line 95, in _auto_detect raise RuntimeUnavailable("Could not find a JavaScript runtime.")
+    - apk add --update nodejs nodejs-npm
+    - pip freeze
+    # #sphinxcontrib-jsx 0.3.0 has requirement PyExecJS==1.0.4, but you'll have pyexecjs 1.0.5 which is incompatible.
+    - pip uninstall pyexecjs
+    - pip install -r ./content/requirements.txt
+    - sphinx-build -b html ./content public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master

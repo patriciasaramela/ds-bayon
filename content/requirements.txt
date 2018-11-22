@@ -1,0 +1,9 @@
+#sphinxcontrib-jsx 0.3.0 has requirement PyExecJS==1.0.4, but you'll have pyexecjs 1.0.5 which is incompatible.
+PyExecJS==1.0.4
+Sphinx
+sphinxcontrib-jsx
+sphinx_materialdesign_theme
+sphinxcontrib-plantuml
+recommonmark
+sphinxcontrib_robotdoc
+sphinxcontrib_robotframework
