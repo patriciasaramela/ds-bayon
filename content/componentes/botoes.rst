@@ -1,9 +1,9 @@
 ===========================
-Botões
+**Botões
 ===========================
 
 ---------------
-Data: 00/00
+Data: 27/11
 ---------------
 
 Botões são usados para acionar uma ação. Através dos tipos, é possível identificar a importância de cada ação, o padrão são os botões default, para botões com mais destaque é usado o primary, e para ações principais o secondary. Podendo também ser usado na versão danger, no caso de exclusão.
