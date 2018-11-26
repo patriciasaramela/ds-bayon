@@ -3,7 +3,7 @@ Alert
 ===========================
 
 ---------------
-Data: 00/00
+Data: 30/11
 ---------------
 
 O alert deve ser usado pra mostrar mensagens criticas ao usuário, no topo da tela, como uma perda de conexação ou funcionalidade, por exemplo. As mensagens de alert demoram mais para sair da tela que uma mensagem Toast, no máximo 8 segundos, e deve possibilitar que o usuário feche caso queira.

@@ -225,10 +225,6 @@ A paleta complementar deve ser utilizada de forma moderada e exclusivamente em e
             <td>tagChumbo</td>
             <td>#8B8878</td>
         </tr>
-        </tbody>
-    </table>
-    <table class="color_palettes">
-        <tbody>
         <tr style="background-color: #F777CC; color: #FFFFFF">
             <td>tagHotPink</td>
             <td>#F777CC</td>
@@ -267,3 +263,24 @@ A paleta complementar deve ser utilizada de forma moderada e exclusivamente em e
         </tr>
         </tbody>
     </table>
+
+
+Uso das cores
+---------------
+
+
+.. raw:: html
+
+    <table class="color_palettes">
+        <tbody>
+            <tr style="background-color: #f2f2f2; color: #333333" >
+                <td>Background</td>
+                <td>#000000</td>
+            </tr>
+            <tr style="background-color: #f5f5f5; color: #333333" >
+                <td>Sidebar</td>
+                <td>#000000</td>
+            </tr>
+        </tbody>
+    </table>
+   

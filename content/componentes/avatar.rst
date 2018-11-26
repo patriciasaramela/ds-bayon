@@ -3,7 +3,7 @@ Avatar
 ===========================
 
 ---------------
-Data: 00/00
+Data: 18/11
 ---------------
 
 O avatar ajuda a identificar usuários ou pessoas que a página ou documento está se referindo.
