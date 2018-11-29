@@ -273,13 +273,13 @@ Uso das cores
 
     <table class="color_palettes">
         <tbody>
-            <tr style="background-color: #f2f2f2; color: #333333" >
+            <tr style="background-color: #EAEAEA">
                 <td>Background</td>
-                <td>#000000</td>
+                <td>#EAEAEA</td>
             </tr>
-            <tr style="background-color: #f5f5f5; color: #333333" >
+            <tr style="background-color: #F4F4F4">
                 <td>Sidebar</td>
-                <td>#000000</td>
+                <td>#F4F4F4</td>
             </tr>
         </tbody>
     </table>
