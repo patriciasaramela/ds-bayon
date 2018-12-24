@@ -2,16 +2,58 @@
 Alert
 ===========================
 
-O Alert deve ser usado pra mostrar mensagens criticas ao usuário, no topo da tela, como uma perda de conexação ou funcionalidade, por exemplo. As mensagens de alert demoram mais para sair da tela que uma mensagem Toast, no máximo 8 segundos, e deve possibilitar que o usuário feche caso queira.
+É uma mensagem que aparece em uma caixa na parte superior da tela. É usado para informar o usuário de algo crítico aconteceu, ou pode acontecer.
 
-São usados em notificações que o usuário precisa ver o conteudo para saber o que está acontecendo com a aplicação, por exemplo uma mensagem de erro do sistema.
+As notificações Alert devem permanecer na tela até o usuário o fechar ou até que o problema relatado tenha sido resolvido, porém não deve bloquear o uso do resto da aplicação.
 
-- Alerts devem aparecer somente uma por vez.
-- Evite usar mensagens "culpando" o usuário por algum erro. Prefira usar "Nós estamos com um problema de conexão" do que "Você está com problemas de conexão".
-- Deixe o usuário saber o que está acontecendo, mas seja claro e tente não usar temos técnicos.
 
 
 .. figure:: /_static/alert-dimensoes.png
-   :width: 100%
+   :width: 930px
    :align: center
-   :alt: exemplo de botão com loader
+   :alt: exemplo dimensões do Alert
+
+
+
+Cores
+========
+
+.. raw:: html
+
+
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="../_static/cor-success.png" style="margin: 0 auto;display: block;" alt"">
+                </td>
+                <td>
+                    O alert de <strong>sucesso</strong> é usado para dar um feedback positivo ao usuário, relacionado a uma ação executada por ele. 
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="../_static/cor-alert.png" style="margin: 0 auto;display: block;" alt"">
+                </td>
+                <td>
+                    O tipo <strong>alerta</strong> é usado para ajudar o usuário a evitar situações de erro. Consiste na descrição de potenciais erros.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="../_static/cor-danger.png" style="margin: 0 auto;display: block;" alt"">
+                </td>
+                <td>
+                    É usado quando ocorre algum <strong>erro</strong>, ou o acesso do usuário é negado.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="../_static/cor-info.png" style="margin: 0 auto;display: block;" alt"">
+                </td>
+                <td>
+                    O alert de <strong>Informação</strong> é usado pra dar uma informação ao usuário. Usado para mensagens que não se encaixam em nenhuma outra das opções.
+                </td>
+            </tr>
+        </tbody>
+    </table>

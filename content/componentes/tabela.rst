@@ -2,61 +2,50 @@
 Tabela
 ===========================
 
----------------
-Data: 14/12
----------------
+
+Tamanhos
+========
+
+.. figure:: /_static/tabela.png
+   :width: 900px
+   :align: center
 
 
 
-Simples
----------
+Hover
+======
+
+.. figure:: /_static/tabela-hover.png
+   :width: 900px
+   :align: center
 
 
 Responsiva
---------------
+===========
 
+.. figure:: /_static/tabela-responsiva.png
+   :width: 900px
+   :align: center
 
-Muitos elementos por linha
-----------------------------
+Botões, Input, Select
+======================
 
+.. figure:: /_static/tabela-acoes.png
+   :width: 900px
+   :align: center
 
-Com paginação
-------------------
+Seleção em lote
+================
 
+.. figure:: /_static/tabela-select.png
+   :width: 900px
+   :align: center
 
-Com ações
--------------
+Ordenação
+==========
 
-
-Com seleção (checklist)
-----------------------------
-
-
-Com filtro
---------------
-
-
-Tamanhos
--------------
-
-
-Linha expansivel
---------------------
-
-
-Header Fixo
----------------
-
-
-Coluna fixa
--------------
-
-
-Editaveis
-----------------------
-
-
-Drag and drop
-------------------
+.. figure:: /_static/tabela-ordenacao.png
+   :width: 900px
+   :align: center
 
 

@@ -8,6 +8,5 @@ Visual Design
 
 
    cores
-   layout
    fonts
    icones
