@@ -7,9 +7,9 @@ Fonts
    :align: center
    :alt: ilustração de visual design
 
-A ‘Segoe UI’ é a font family usada nas aplicações web. Segundo a Microsoft, “Ela foi projetada para 
+A ‘Segoe UI’ é a font family usada nas aplicações web. Segundo a Microsoft, “ela foi projetada para 
 manter a legibilidade ideal em todos os tamanhos e densidades de pixel, e oferece uma estética limpa, 
-leve e aberta que complementa o conteúdo do sistema.” Caso a Segoe Ui não esteja disponível no 
+leve e aberta que complementa o conteúdo do sistema”. Caso a Segoe UI não esteja disponível no 
 dispositivo usado, a font ‘Selawik’ será usada.
 
 O sistema de fonts é composto pelos aspectos a seguir:

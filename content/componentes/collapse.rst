@@ -15,3 +15,6 @@ O **Accordion** é um tipo especial de collapse, que permite que apenas um paine
    :width: 706px
    :align: center
    :alt: exemplo dimensões do Alert
+
+
+

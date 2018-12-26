@@ -9,7 +9,7 @@ Existem 17 opções de cores de etiquetas para escolher.
 - Um único cartão pode ter várias etiquetas. 
 - Quando o card tiver até 2 etiquetas, elas devem aparecer na forma aberta, ou seja, com texto.
 - Em cards que tiverem 3 ou mais etiquetas, elas irão aparecer de forma fechada, ou seja, sem texto.
-- As etiquetas podem aparecer em duas versões, com ou sem botão fechar. O usuo da etiqueta com o botão fechar é recomendado em casos onde o mesmo card aparesenta Tags, sendo uma forma de ajudar a diferenciar Tags de etiquetas.
+- As etiquetas podem aparecer em duas versões, com ou sem botão fechar. O uso da etiqueta com o botão fechar é recomendado em casos onde o mesmo card apresenta Tags, sendo uma forma de ajudar a diferenciar Tags de etiquetas.
 
 .. figure:: /_static/etiqueta-aberta.png
    :width: 742px
@@ -26,7 +26,7 @@ Existem 17 opções de cores de etiquetas para escolher.
 Interações
 ============
 
-As etiquetas não tem nenhuma interação, com exeção do botão fechar.
+As etiquetas não tem nenhuma interação, com exceção do botão fechar.
 Como o texto pode ser truncado para caber na etiqueta, ao passar o mouse em cima, um elemento Tooltip aparecerá com o nome completo da etiqueta, independente se ela aparecer aberta ou fechada.
 Na etiqueta com botão de "remover etiqueta", ao passar mouse em cima, a área do botão ficará com uma cor mais escura.
 

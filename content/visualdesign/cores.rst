@@ -12,9 +12,9 @@ Cores
 Cores da Marca
 ---------------
 
-É usada na branding da aplicação como header e botões, afim de criar uma identificação do usuário com elementos visuais intuitivos e incorporar características do produto.
+São usadas no branding da aplicação como header e botões, afim de criar uma identificação do usuário com elementos visuais intuitivos e incorporar características do produto.
 
-A o valor Hex da cor principal usada no header é #0063b1, cor normal do botão é #0078d7 sendo o hover #0063b1, quando a necessidade de um botão CTA (Call To Action) utiliza-se #FFC070 e hover #FFAF4A.
+O valor Hex da cor principal usada no header é #0063b1, cor normal do botão é #0078d7 sendo o hover #0063b1, quando a necessidade de um botão CTA (Call To Action) utiliza-se #FFC070 e hover #FFAF4A.
 
 Para botões confira a forma correta de aplicar na seção botões.
 
@@ -60,7 +60,7 @@ Para botões confira a forma correta de aplicar na seção botões.
         </tbody>
     </table>
 
-Neutra
+Neutras
 ---------------
 Essas cores são utilizadas em boa parte da interface, temos a aplicação em textos, bordas, backgrounds, linhas divisórias, entre outros.
 Precisamos seguir o padrão WCAG 2.0 (Web Content Accessibility Guidelines) e o princípio de contraste da Gestalt para aplicação entre fundo claro e escuro.
@@ -118,9 +118,9 @@ Precisamos seguir o padrão WCAG 2.0 (Web Content Accessibility Guidelines) e o 
         </tbody>
     </table>
 
-Funcional
+Funcionais
 ---------------
-Utilizada para mensagens de status, alerta, sucesso e erro. A escolha da cor está em conformidade com a compreensão básica do usuário. Podemos fazer uma analogia com o semáforo, aonde temos a cor amarela para atenção, vermelha parada e verde pra seguir.  
+Utilizadas para mensagens de status, alerta, sucesso e erro. A escolha da cor está em conformidade com a compreensão básica do usuário. Podemos fazer uma analogia com o semáforo, aonde temos a cor amarela para atenção, vermelha parada e verde pra seguir.  
 
 .. raw:: html
 

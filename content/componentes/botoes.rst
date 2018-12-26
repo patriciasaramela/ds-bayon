@@ -65,6 +65,7 @@ Variações
                 </td>
                 <td><strong>Default</strong> é o botão padrão usado na maioria dos casos.</td>
             </tr>
+            
             <tr>
                 <td style="padding-right: 100px">
                     <img src="../_static/button-outline.png" style="max-width: 90px" alt"">

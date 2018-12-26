@@ -1,7 +1,7 @@
 ===========================
-Icones
+Ícones
 ===========================
-As informações do mesmo contexto devem estar próximos um do outro tornando uma unidade visual 
+As informações do mesmo contexto devem estar próximas uma das outras, criando uma unidade visual 
 em vez de várias unidades separadas. Caso contrário, sua distância deve ser maior e parecer mais com 
 várias unidades visuais. O objetivo básico é organizar, assim mantemos uma hierarquia de informações 
 aos usuários. 

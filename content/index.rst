@@ -54,8 +54,6 @@ Nós fornecemos uma série de princípios de design, padrões práticos e recurs
 .. toctree:: :maxdepth: 1
    :titlesonly:
 
-
-   acessibilidade
    visualdesign/index
    componentes/index
 
