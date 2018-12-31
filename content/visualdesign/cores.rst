@@ -103,7 +103,7 @@ Precisamos seguir o padrão WCAG 2.0 (Web Content Accessibility Guidelines) e o 
             <td>#F4F4F4</td>
             </tr>
             <tr style="background-color: #F9F9F9" >
-            <td>neutralLight</td>
+            <td>neutralLighter</td>
             <td>#F9F9F9</td>
             </tr>
             <tr

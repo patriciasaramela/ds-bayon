@@ -9,7 +9,7 @@ As notificações Alert devem permanecer na tela até o usuário o fechar ou at�
 
 
 .. figure:: /_static/alert-dimensoes.png
-   :width: 930px
+   :width: 800px
    :align: center
    :alt: exemplo dimensões do Alert
 

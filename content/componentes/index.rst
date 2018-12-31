@@ -19,7 +19,6 @@ Componentes
    modal
    paginacao
    tabela
-   tabs
    tarjas
    tooltip
    toast

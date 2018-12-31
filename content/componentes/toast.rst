@@ -13,7 +13,7 @@ Eles não devem ser interativos, deve ser mostrado apenas para informar o usuár
 
 
 .. figure:: /_static/toast-dimensoes.png
-   :width: 383px
+   :width: 350px
    :align: center
    :alt: exemplo dimensões do Toast
 
